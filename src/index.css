@@ -24,10 +24,10 @@ body {
   padding: 30px;
   border-radius: 20px;
   box-shadow: inset 0px 0px 10px rgba(124, 124, 124, 0.68);
-  /* background-image: url(./assets/react.svg);
+  background-image: url(./assets/reactjs-icon 2.png);
   background-repeat: no-repeat;
   background-position-x: right;
-  background-position-y: center; */
+  background-position-y: center;
 }
 
 .header {
