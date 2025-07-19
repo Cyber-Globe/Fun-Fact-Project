@@ -7,7 +7,7 @@ function App() {
       <Header />
       <div>
         <h1>Fun Fact Project</h1>
-        <ul>
+        <ul className="facts">
           <li>was first released in 2013</li>
           <li>was originally created by jordan walke</li>
           <li>waswell over 300k stars on Github</li>
